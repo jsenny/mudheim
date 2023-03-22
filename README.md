@@ -1,2 +1,2 @@
 # mudheim
-Website for game Mudheim/
+Mudheim game website.
